@@ -1,0 +1,557 @@
+starve_time = 0
+0ms	 1 has taken a fork 0
+
+starve_time = 0
+0ms	 1 has taken a fork 0
+
+starve_time = 0
+0ms	 1 is eating 0
+
+starve_time = 0
+0ms	 3 has taken a fork 0
+
+starve_time = 0
+0ms	 3 has taken a fork 0
+
+starve_time = 0
+0ms	 3 is eating 0
+
+starve_time = 0
+0ms	 5 has taken a fork 0
+
+starve_time = 200
+200ms	 1 is sleeping 1
+
+starve_time = 199
+199ms	 5 has taken a fork 0
+
+starve_time = 199
+199ms	 5 is eating 0
+
+starve_time = 200
+200ms	 3 is sleeping 1
+
+starve_time = 201
+201ms	 2 has taken a fork 0
+
+starve_time = 201
+201ms	 2 has taken a fork 0
+
+starve_time = 201
+201ms	 2 is eating 0
+
+starve_time = 400
+400ms	 1 is thinking 1
+
+starve_time = 200
+399ms	 5 is sleeping 1
+
+starve_time = 400
+400ms	 1 has taken a fork 1
+
+starve_time = 399
+399ms	 4 has taken a fork 0
+
+starve_time = 399
+399ms	 4 has taken a fork 0
+
+starve_time = 0
+399ms	 4 is eating 0
+
+starve_time = 400
+400ms	 3 is thinking 1
+
+starve_time = 200
+401ms	 2 is sleeping 1
+
+starve_time = 400
+400ms	 3 has taken a fork 1
+
+starve_time = 401
+401ms	 1 has taken a fork 1
+
+starve_time = 0
+401ms	 1 is eating 1
+
+starve_time = 400
+599ms	 5 is thinking 1
+
+starve_time = 200
+599ms	 4 is sleeping 1
+
+starve_time = 400
+599ms	 5 has taken a fork 1
+
+starve_time = 599
+599ms	 3 has taken a fork 1
+
+starve_time = 599
+599ms	 3 is eating 1
+
+starve_time = 400
+601ms	 2 is thinking 1
+
+starve_time = 200
+601ms	 1 is sleeping 2
+
+starve_time = 401
+600ms	 5 has taken a fork 1
+
+starve_time = 0
+600ms	 5 is eating 1
+
+starve_time = 400
+799ms	 4 is thinking 1
+
+starve_time = 200
+799ms	 3 is sleeping 2
+
+starve_time = 599
+800ms	 2 has taken a fork 1
+
+starve_time = 599
+800ms	 2 has taken a fork 1
+
+starve_time = 0
+800ms	 2 is eating 1
+
+starve_time = 400
+801ms	 1 is thinking 2
+
+starve_time = 200
+800ms	 5 is sleeping 2
+
+starve_time = 400
+801ms	 1 has taken a fork 2
+
+starve_time = 401
+800ms	 4 has taken a fork 1
+
+starve_time = 401
+800ms	 4 has taken a fork 1
+
+starve_time = 401
+800ms	 4 is eating 1
+
+starve_time = 400
+999ms	 3 is thinking 2
+
+starve_time = 200
+1000ms	 2 is sleeping 2
+
+starve_time = 400
+999ms	 3 has taken a fork 2
+
+starve_time = 599
+1000ms	 1 has taken a fork 2
+
+starve_time = 599
+1000ms	 1 is eating 2
+
+starve_time = 400
+1000ms	 5 is thinking 2
+
+starve_time = 200
+1000ms	 4 is sleeping 2
+
+starve_time = 400
+1000ms	 5 has taken a fork 2
+
+starve_time = 401
+1000ms	 3 has taken a fork 2
+
+starve_time = 0
+1000ms	 3 is eating 2
+
+starve_time = 400
+1200ms	 2 is thinking 2
+
+starve_time = 200
+1200ms	 1 is sleeping 3
+
+starve_time = 599
+1199ms	 5 has taken a fork 2
+
+starve_time = 599
+1199ms	 5 is eating 2
+
+starve_time = 400
+1200ms	 4 is thinking 2
+
+starve_time = 200
+1200ms	 3 is sleeping 3
+
+starve_time = 401
+1201ms	 2 has taken a fork 2
+
+starve_time = 401
+1201ms	 2 has taken a fork 2
+
+starve_time = 0
+1201ms	 2 is eating 2
+
+starve_time = 400
+1400ms	 1 is thinking 3
+
+starve_time = 400
+1400ms	 1 has taken a fork 3
+
+starve_time = 599
+1399ms	 4 has taken a fork 2
+
+starve_time = 599
+1399ms	 4 has taken a fork 2
+
+starve_time = 599
+1399ms	 4 is eating 2
+
+starve_time = 200
+1399ms	 5 is sleeping 3
+
+starve_time = 400
+1400ms	 3 is thinking 3
+
+starve_time = 401
+1401ms	 1 has taken a fork 3
+
+starve_time = 401
+1401ms	 1 is eating 3
+
+starve_time = 400
+1400ms	 3 has taken a fork 3
+
+starve_time = 200
+1401ms	 2 is sleeping 3
+
+starve_time = 400
+1599ms	 5 is thinking 3
+
+starve_time = 200
+1599ms	 4 is sleeping 3
+
+starve_time = 400
+1599ms	 5 has taken a fork 3
+
+starve_time = 599
+1599ms	 3 has taken a fork 3
+
+starve_time = 0
+1599ms	 3 is eating 3
+
+starve_time = 400
+1601ms	 2 is thinking 3
+
+starve_time = 200
+1601ms	 1 is sleeping 4
+
+starve_time = 401
+1600ms	 5 has taken a fork 3
+
+starve_time = 0
+1600ms	 5 is eating 3
+
+starve_time = 400
+1799ms	 4 is thinking 3
+
+starve_time = 200
+1799ms	 3 is sleeping 4
+
+starve_time = 599
+1800ms	 2 has taken a fork 3
+
+starve_time = 599
+1800ms	 2 has taken a fork 3
+
+starve_time = 599
+1800ms	 2 is eating 3
+
+starve_time = 400
+1801ms	 1 is thinking 4
+
+starve_time = 200
+1800ms	 5 is sleeping 4
+
+starve_time = 400
+1801ms	 1 has taken a fork 4
+
+starve_time = 401
+1800ms	 4 has taken a fork 3
+
+starve_time = 401
+1800ms	 4 has taken a fork 3
+
+starve_time = 0
+1800ms	 4 is eating 3
+
+starve_time = 400
+1999ms	 3 is thinking 4
+
+starve_time = 200
+2000ms	 2 is sleeping 4
+
+starve_time = 400
+1999ms	 3 has taken a fork 4
+
+starve_time = 599
+2000ms	 1 has taken a fork 4
+
+starve_time = 599
+2000ms	 1 is eating 4
+
+starve_time = 400
+2000ms	 5 is thinking 4
+
+starve_time = 401
+2000ms	 3 has taken a fork 4
+
+starve_time = 401
+2000ms	 3 is eating 4
+
+starve_time = 200
+2000ms	 4 is sleeping 4
+
+starve_time = 400
+2000ms	 5 has taken a fork 4
+
+starve_time = 400
+2200ms	 2 is thinking 4
+
+starve_time = 200
+2200ms	 1 is sleeping 5
+
+starve_time = 599
+2199ms	 5 has taken a fork 4
+
+starve_time = 599
+2199ms	 5 is eating 4
+
+starve_time = 400
+2200ms	 4 is thinking 4
+
+starve_time = 200
+2200ms	 3 is sleeping 5
+
+starve_time = 401
+2201ms	 2 has taken a fork 4
+
+starve_time = 401
+2201ms	 2 has taken a fork 4
+
+starve_time = 401
+2201ms	 2 is eating 4
+
+starve_time = 400
+2400ms	 1 is thinking 5
+
+starve_time = 200
+2399ms	 5 is sleeping 5
+
+starve_time = 400
+2400ms	 1 has taken a fork 5
+
+starve_time = 599
+2399ms	 4 has taken a fork 4
+
+starve_time = 599
+2399ms	 4 has taken a fork 4
+
+starve_time = 599
+2399ms	 4 is eating 4
+
+starve_time = 400
+2400ms	 3 is thinking 5
+
+starve_time = 200
+2401ms	 2 is sleeping 5
+
+starve_time = 400
+2400ms	 3 has taken a fork 5
+
+starve_time = 401
+2401ms	 1 has taken a fork 5
+
+starve_time = 401
+2401ms	 1 is eating 5
+
+starve_time = 400
+2599ms	 5 is thinking 5
+
+starve_time = 200
+2599ms	 4 is sleeping 5
+
+starve_time = 400
+2599ms	 5 has taken a fork 5
+
+starve_time = 599
+2599ms	 3 has taken a fork 5
+
+starve_time = 599
+2599ms	 3 is eating 5
+
+starve_time = 400
+2601ms	 2 is thinking 5
+
+starve_time = 200
+2601ms	 1 is sleeping 6
+
+starve_time = 401
+2600ms	 5 has taken a fork 5
+
+starve_time = 401
+2600ms	 5 is eating 5
+
+starve_time = 400
+2799ms	 4 is thinking 5
+
+starve_time = 200
+2799ms	 3 is sleeping 6
+
+starve_time = 599
+2800ms	 2 has taken a fork 5
+
+starve_time = 599
+2800ms	 2 has taken a fork 5
+
+starve_time = 599
+2800ms	 2 is eating 5
+
+starve_time = 400
+2801ms	 1 is thinking 6
+
+starve_time = 200
+2800ms	 5 is sleeping 6
+
+starve_time = 401
+2800ms	 4 has taken a fork 5
+
+starve_time = 401
+2800ms	 4 has taken a fork 5
+
+starve_time = 401
+2800ms	 4 is eating 5
+
+starve_time = 400
+2801ms	 1 has taken a fork 6
+
+starve_time = 400
+2999ms	 3 is thinking 6
+
+starve_time = 200
+3000ms	 2 is sleeping 6
+
+starve_time = 400
+2999ms	 3 has taken a fork 6
+
+starve_time = 599
+3000ms	 1 has taken a fork 6
+
+starve_time = 599
+3000ms	 1 is eating 6
+
+starve_time = 400
+3000ms	 5 is thinking 6
+
+starve_time = 200
+3000ms	 4 is sleeping 6
+
+starve_time = 400
+3000ms	 5 has taken a fork 6
+
+starve_time = 401
+3000ms	 3 has taken a fork 6
+
+starve_time = 401
+3000ms	 3 is eating 6
+
+starve_time = 400
+3200ms	 2 is thinking 6
+
+starve_time = 200
+3200ms	 1 is sleeping 7
+
+starve_time = 599
+3199ms	 5 has taken a fork 6
+
+starve_time = 599
+3199ms	 5 is eating 6
+
+starve_time = 400
+3200ms	 4 is thinking 6
+
+starve_time = 200
+3200ms	 3 is sleeping 7
+
+starve_time = 401
+3201ms	 2 has taken a fork 6
+
+starve_time = 401
+3201ms	 2 has taken a fork 6
+
+starve_time = 0
+3201ms	 2 is eating 6
+
+starve_time = 400
+3400ms	 1 is thinking 7
+
+starve_time = 200
+3399ms	 5 is sleeping 7
+
+starve_time = 599
+3399ms	 4 has taken a fork 6
+
+starve_time = 599
+3399ms	 4 has taken a fork 6
+
+starve_time = 599
+3399ms	 4 is eating 6
+
+starve_time = 400
+3400ms	 1 has taken a fork 7
+
+starve_time = 400
+3400ms	 3 is thinking 7
+
+starve_time = 401
+3401ms	 1 has taken a fork 7
+
+starve_time = 400
+3400ms	 3 has taken a fork 7
+
+starve_time = 200
+3401ms	 2 is sleeping 7
+
+starve_time = 0
+3401ms	 1 is eating 7
+
+starve_time = 400
+3599ms	 5 is thinking 7
+
+starve_time = 200
+3599ms	 4 is sleeping 7
+
+starve_time = 400
+3599ms	 5 has taken a fork 7
+
+starve_time = 599
+3599ms	 3 has taken a fork 7
+
+starve_time = 599
+3599ms	 3 is eating 7
+
+starve_time = 400
+3601ms	 2 is thinking 7
+
+starve_time = 200
+3601ms	 1 is sleeping 8
+
+starve_time = 401
+3600ms	 5 has taken a fork 7
+
+starve_time = 401
+3600ms	 5 is eating 7
+
+starve_time = 400
+3799ms	 4 is thinking 7
+
+starve_time = 200
+3799ms	 3 is
